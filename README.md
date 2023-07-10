@@ -15,3 +15,6 @@ Invoking shell script
 Getting help option 
 ![image](https://github.com/bharatts/TCL-Workshop---From-Introduction-to-Advanced-Scripting-Techniques-in-VLSI-Design-and-Synthesis/blob/main/tcl_result/day1-2.jpg)
 Result when wrong csv file is passed
+
+
+# Day-2 (Variable creation and processing constraints from csv)
