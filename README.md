@@ -18,3 +18,9 @@ Result when wrong csv file is passed
 
 
 # Day-2 (Variable creation and processing constraints from csv)
+Task
+- Create variable so that we can access the path, where file is present
+- check if directories and files mentioned in .csv, exits or not
+- read constraints file for above .csv
+- read all files in NetList Dir
+- create main synthesis script
