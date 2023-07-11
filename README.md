@@ -1,3 +1,15 @@
+# TCL Workshop: From Introduction to Advanced Scripting Techniques in Design and Synthesis
+
+TCL is known as a robust scripting language with programming elements. It is accessible on Windows, Mac OS, and Unix Operating Systems. TCL is used for scripting programs, graphical user interfaces, networking, administration, testing, and Web and desktop applications (GUI).
+
+For Electronic Design Automation (EDA) applications, TCL has emerged as the de facto industry standard embedded command language. TCL is the ideal option if you need to automate repetitive behavior, expand an application’s capabilities, manage many tools with a single script, or develop a unique GUI.
+
+
+
+
+
+
+
 # Day-1
 # Task 
   - Create Shell Script and pass csv file as a argument
