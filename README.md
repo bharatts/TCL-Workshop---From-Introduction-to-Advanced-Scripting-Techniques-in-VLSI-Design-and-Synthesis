@@ -26,6 +26,6 @@ Task
 - create main synthesis script
 Results
 - Checking if files paths exists and readable
-  ![image](tcl_result/Day2_checkfile_ifexistsScreenshot 2023-07-06 152824.jpg)
+  ![image](https://github.com/bharatts/TCL-Workshop---From-Introduction-to-Advanced-Scripting-Techniques-in-VLSI-Design-and-Synthesis/blob/main/tcl_result/Day2_checkfile_ifexistsScreenshot%202023-07-06%20152824.jpg)
 - Gives error message if file path dont exists
-  ![image]()
+  ![image](https://github.com/bharatts/TCL-Workshop---From-Introduction-to-Advanced-Scripting-Techniques-in-VLSI-Design-and-Synthesis/blob/main/tcl_result/day2-1.jpg)
