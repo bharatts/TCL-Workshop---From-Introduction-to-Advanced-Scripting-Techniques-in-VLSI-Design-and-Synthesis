@@ -24,3 +24,8 @@ Task
 - read constraints file for above .csv
 - read all files in NetList Dir
 - create main synthesis script
+Results
+- Checking if files paths exists and readable
+  ![image](tcl_result/Day2_checkfile_ifexistsScreenshot 2023-07-06 152824.jpg)
+- Gives error message if file path dont exists
+  ![image]()
