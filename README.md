@@ -76,11 +76,11 @@ Task
 
 Results 
 - Generated .conf file
-  ![image]()
+  ![image](https://github.com/bharatts/TCL-Workshop---From-Introduction-to-Advanced-Scripting-Techniques-in-VLSI-Design-and-Synthesis/blob/main/tcl_result/conf%20file.jpg)
 - Generated timing file
-  ![image]()
+  ![image](https://github.com/bharatts/TCL-Workshop---From-Introduction-to-Advanced-Scripting-Techniques-in-VLSI-Design-and-Synthesis/blob/main/tcl_result/timing%20file.jpg)
 - Final Result
-  ![image]()
+  ![image](https://github.com/bharatts/TCL-Workshop---From-Introduction-to-Advanced-Scripting-Techniques-in-VLSI-Design-and-Synthesis/blob/main/tcl_result/Final_Output_Screenshot%202023-07-08%20215103.jpg)
 
 
 # Acknowledgement
