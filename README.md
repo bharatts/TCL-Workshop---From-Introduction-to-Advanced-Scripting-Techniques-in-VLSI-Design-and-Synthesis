@@ -29,3 +29,20 @@ Task
   ![image](https://github.com/bharatts/TCL-Workshop---From-Introduction-to-Advanced-Scripting-Techniques-in-VLSI-Design-and-Synthesis/blob/main/tcl_result/Day2_checkfile_ifexistsScreenshot%202023-07-06%20152824.jpg)
 - Gives error message if file path dont exists
   ![image](https://github.com/bharatts/TCL-Workshop---From-Introduction-to-Advanced-Scripting-Techniques-in-VLSI-Design-and-Synthesis/blob/main/tcl_result/day2-1.jpg)
+
+
+# Day3 - (Processing Clock and Input Constraints)
+
+- Sub Task: From CSV to format[1] and SDC processing clock constraints
+- Task to differentiating betweens bits and bus port and create sdc format
+
+# Results
+
+- Processing clock ports
+  ![image]()
+- Processing input ports as bit and buses
+  ![image]()
+- Processing output ports as bit and buses
+  ![image]()
+- Sample SDC format generated
+  ![image]()
