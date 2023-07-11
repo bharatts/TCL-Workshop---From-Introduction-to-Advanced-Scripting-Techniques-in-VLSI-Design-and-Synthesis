@@ -39,7 +39,7 @@ Task
 # Results
 
 - Processing clock ports
-  ![image]()
+  ![image](https://github.com/bharatts/TCL-Workshop---From-Introduction-to-Advanced-Scripting-Techniques-in-VLSI-Design-and-Synthesis/blob/main/tcl_result/Day3_differentiating%20between%20bits%20and%20busesScreenshot%202023-07-07%20003533.jpg)
 - Processing input ports as bit and buses
   ![image]()
 - Processing output ports as bit and buses
