@@ -63,3 +63,18 @@ Task
   - Generated synthesis script
     ![image](https://github.com/bharatts/TCL-Workshop---From-Introduction-to-Advanced-Scripting-Techniques-in-VLSI-Design-and-Synthesis/blob/main/tcl_result/day3-5.jpg)
   
+
+
+# Day 5 - (Advanced Scripting Techniques ad Quality of Results Generation)
+
+ - Synthesis main file scripting and output file editing
+ - enable procs
+ - Generating conf file for OpenTimer to read
+ - Generating timing file
+ - Printing final result in table format as Quality of Results (QoR)
+
+
+
+# Acknowledgement
+1. Mr. Kunal Ghosh, C0-Founder, VSD Corp. Pvt. Ltd.
+2. T R Visruat
