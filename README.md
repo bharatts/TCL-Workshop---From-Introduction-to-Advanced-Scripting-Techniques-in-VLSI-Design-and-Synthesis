@@ -75,7 +75,12 @@ Task
 
 
 Results 
-- 
+- Generated .conf file
+  ![image]()
+- Generated timing file
+  ![image]()
+- Final Result
+  ![image]()
 
 
 # Acknowledgement
