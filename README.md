@@ -1,14 +1,23 @@
 # TCL Workshop: From Introduction to Advanced Scripting Techniques in Design and Synthesis
 
+![image](https://github.com/bharatts/TCL-Workshop---From-Introduction-to-Advanced-Scripting-Techniques-in-VLSI-Design-and-Synthesis/blob/main/tcl_result/TCL-Workshop1-2048x1448.jpg)
 TCL is known as a robust scripting language with programming elements. It is accessible on Windows, Mac OS, and Unix Operating Systems. TCL is used for scripting programs, graphical user interfaces, networking, administration, testing, and Web and desktop applications (GUI).
 
 For Electronic Design Automation (EDA) applications, TCL has emerged as the de facto industry standard embedded command language. TCL is the ideal option if you need to automate repetitive behavior, expand an application’s capabilities, manage many tools with a single script, or develop a unique GUI.
 
+# Day 1 
+Serves as the foundation, introducing you to the core concepts and tasks of TCL. By understanding the fundamentals, you will gain the confidence to tackle any scripting challenge that comes your way. Get ready to witness the power of TCL unfold before your eyes!
 
+# Days 2 and 3 
+Immerse you in the art of variable creation and processing constraints. From CSV files to format[1] and SDC, you will learn how to seamlessly convert data, auto-create variables using matrix and arrays, and handle complex processing tasks. Through hands-on demonstrations, you will witness the magic of TCL as it effortlessly manages variables and constraints, empowering you to streamline your scripting workflows.
 
+# Day 4 
+You will embark on an exhilarating exploration of advanced scripting techniques. Brace yourself for an introduction to Yosys, a synthesis tool that will revolutionize your scripting capabilities. Unlock the secrets of writing comprehensive scripts, understanding memory module RTL descriptions, and mastering gate level netlist descriptions. With Yosys by your side, you will conquer complex synthesis tasks with confidence and finesse.
 
+# Day 5 
+As you delve into the realm of quality of results (QOR) generation. Witness the true power of your scripting prowess as you learn to create high-quality results that surpass expectations. From runtime optimization to precise WNS and FEP analysis, you will unleash the full potential of TCL to generate reports that showcase your expertise.
 
-
+-----------------------------------------------------------------------------------------------
 
 # Day-1
 # Task 
