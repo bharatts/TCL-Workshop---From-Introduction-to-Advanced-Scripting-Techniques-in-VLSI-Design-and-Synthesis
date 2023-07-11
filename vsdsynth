@@ -1,0 +1,47 @@
+#!/bin/tcsh -f
+
+echo " "
+echo " "
+echo " "
+echo "                                             ------------------      ++++++++++            |"
+echo "                                                      |             ++                     |"
+echo "                                                      |            ++                      |"
+echo "                                                      |            ++                      |"
+echo "                                                      |            ++                      |"
+echo "                                                      |             ++                     |"
+echo "                                                      |              ++++++++++            ------------"	
+
+echo " "
+echo " "
+echo " "
+echo "				TCL Workshop: An Introduction to Advanced Scripting Techniques in Design and Synthesis"
+echo "							Organized By: VLSI System Design Corp"
+echo "								     Thank You"
+
+
+set my_work_dir = 'pwd'
+
+
+if ($#argv != 1) then
+	echo "Info: Please Provide the CSV File"
+	exit 1
+endif
+
+
+if (! -f $argv[1] || $argv[1] == "-help") then
+	if($argv[1] != "-help") then
+		echo "Error: Cannot Find the File $argv[1]. Exisiting...."
+		exit 1
+	else
+		echo "TCL WORKSHOP ./vsdsynth \<csv file\>"
+		echo "where csv file consists of 2 columns, below keywod beign in 1 st column and is Case Sensitive."
+		echo "\<Design Name\> is the name of top level module"
+		echo "\<output directory\> is the name of output directory where you wnat to dump synthesis script, synthesied netlist and timing report"
+		echo "\<Netlist Directory\> is the name of directory where all RTL netlist are present"
+		echo "\<Early Library\> Path is the file path of the early cell library to be used for STA"
+		echo "\<Late Library\> is the file path of the late cell library to be used for STA"
+		echo "\<Constraint file\> is csv file path of constraints to be used for STA"
+	endif
+else
+	tclsh vsdsynth.tcl $argv[1]
+endif
