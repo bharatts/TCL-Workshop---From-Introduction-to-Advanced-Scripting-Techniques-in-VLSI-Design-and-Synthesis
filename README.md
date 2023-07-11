@@ -46,3 +46,20 @@ Task
   ![image](https://github.com/bharatts/TCL-Workshop---From-Introduction-to-Advanced-Scripting-Techniques-in-VLSI-Design-and-Synthesis/blob/main/tcl_result/day3_output_port_Screenshot%202023-07-07%20133143.jpg)
 - Sample SDC format generated
   ![image](https://github.com/bharatts/TCL-Workshop---From-Introduction-to-Advanced-Scripting-Techniques-in-VLSI-Design-and-Synthesis/blob/main/tcl_result/day3-2.jpg)
+
+
+  # Day 4 - (Yosys Synthesis tool introduction and hierarchy check)
+
+  - To generated a script which will feed to yosys tool
+  - Check if hierarchy is present
+
+
+  Results
+
+  - check for hierarchy pass
+    ![image](https://github.com/bharatts/TCL-Workshop---From-Introduction-to-Advanced-Scripting-Techniques-in-VLSI-Design-and-Synthesis/blob/main/tcl_result/day3-3.jpg)
+  - check if hierarchy fails
+    ![image](https://github.com/bharatts/TCL-Workshop---From-Introduction-to-Advanced-Scripting-Techniques-in-VLSI-Design-and-Synthesis/blob/main/tcl_result/day3-4.jpg)
+  - Generated synthesis script
+    ![image](https://github.com/bharatts/TCL-Workshop---From-Introduction-to-Advanced-Scripting-Techniques-in-VLSI-Design-and-Synthesis/blob/main/tcl_result/day3-5.jpg)
+  
