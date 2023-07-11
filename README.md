@@ -41,8 +41,8 @@ Task
 - Processing clock ports
   ![image](https://github.com/bharatts/TCL-Workshop---From-Introduction-to-Advanced-Scripting-Techniques-in-VLSI-Design-and-Synthesis/blob/main/tcl_result/Day3_differentiating%20between%20bits%20and%20busesScreenshot%202023-07-07%20003533.jpg)
 - Processing input ports as bit and buses
-  ![image]()
+  ![image](https://github.com/bharatts/TCL-Workshop---From-Introduction-to-Advanced-Scripting-Techniques-in-VLSI-Design-and-Synthesis/blob/main/tcl_result/day3_input_ports_readScreenshot%202023-07-07%20125558.jpg)
 - Processing output ports as bit and buses
-  ![image]()
+  ![image](https://github.com/bharatts/TCL-Workshop---From-Introduction-to-Advanced-Scripting-Techniques-in-VLSI-Design-and-Synthesis/blob/main/tcl_result/day3_output_port_Screenshot%202023-07-07%20133143.jpg)
 - Sample SDC format generated
-  ![image]()
+  ![image](https://github.com/bharatts/TCL-Workshop---From-Introduction-to-Advanced-Scripting-Techniques-in-VLSI-Design-and-Synthesis/blob/main/tcl_result/day3-2.jpg)
